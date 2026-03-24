@@ -1,6 +1,8 @@
 # Fjordlyd-festival med firebase
 
-Ta utgangspunkt i koden i repoet (det er den samme som ble gjennomgått i timen). Lag en oversikt over hvilke artister som spiller på hvilke dager. Du legger inn hvilke artister du vil via Firebase. Husk å koble til din egen Firebase Firestore-database i *firebaseConfig.js*-filen
+Ta utgangspunkt i koden i repoet (det er den samme som ble gjennomgått i timen). Lag en oversikt over hvilke artister som spiller på hvilke dager. Du legger inn hvilke artister du vil via Firebase. Husk å koble til din egen Firebase Firestore-database i *firebaseConfig.js*-filen (gjerne via en _.env_-fil).
+
+Du skal også legge inn **CSS** eller **Tailwind** (gås gjennom på fredag)
 
 ## Slik åpner du prosjektet på din datamaskin
 1. Klon repoet i VS Code
